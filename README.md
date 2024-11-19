@@ -8,6 +8,6 @@ public string[] interests = ["Game Dev", "Web Dev", "Mobile Apps", "Raspberry Pi
 public string location = "Durham University";
 public StudyLevel studyLevel = StudyLevel.Undergraduate;
 public Subject subject = Subject.ComputerScience;
-public int year = 3;
-
+public int year = 4;
+public bool graduating_2025 = true;
 ```
